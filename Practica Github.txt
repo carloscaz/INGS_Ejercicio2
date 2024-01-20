@@ -2,4 +2,4 @@ Esta es una linea de texto
 Segunda linea añadida
 Tercera y ultima linea añadida
 
-Una nueva linea en la rama "develop"
+Una nueva linea en la rama "main"
