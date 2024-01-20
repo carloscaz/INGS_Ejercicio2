@@ -3,6 +3,7 @@ Segunda linea añadida
 Tercera y ultima linea añadida
 
 Provocando un conflicto al actualizar el repositorio
+Conflicto al actualizar el repositorio
 
 Una nueva linea en la rama "main"
 Una nueva linea en la rama "develop"
