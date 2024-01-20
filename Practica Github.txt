@@ -2,7 +2,8 @@ Esta es una linea de texto
 Segunda linea añadida
 Tercera y ultima linea añadida
 
-Añadiendo una linea que provoque conflicto
+Modificando la linea que provoque conflicto
+Añadiendo una linea extra
 
 Provocando un conflicto al actualizar el repositorio
 Conflicto al actualizar el repositorio
